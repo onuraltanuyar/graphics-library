@@ -1,1 +1,1 @@
-#### for my repo graphics library
+#### grafik kütüphanesi
